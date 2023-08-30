@@ -8,3 +8,5 @@ Helper_functions contains just the opencv functions for isolating the lanes and 
 Countour and ContourUp both contain the full driving functionality of the car which implements the lane extraction techinques detailed in helper_function file
 
 RedLight.py contains regular lane-extraction code and driving functionality and stops at red lights
+
+The deep learning approach code is not available here but you can find documentation on Donkey Car's website
